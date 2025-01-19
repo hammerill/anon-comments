@@ -1,4 +1,4 @@
-<img src="./pics/anon-comments/anon-comments-header-1000.png" alt="Anon Comments Header" width="200" />
+<img src="./pics/anon-comments/anon-comments-header-1000.png" alt="Anon Comments Header" width="400" />
 
 # Anon Comments
 Anonymous comments API. Let your user speak without forcing them to login.
