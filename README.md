@@ -1,2 +1,2 @@
-# anon-comments
+# Anon Comments
 Anonymous comments API. Don't force your user to register an account to have the right to speak.

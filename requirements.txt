@@ -1,0 +1,5 @@
+# Mailing Client
+redmail==0.6.0
+
+# .env Reader
+python-dotenv==1.0.1
